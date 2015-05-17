@@ -359,4 +359,30 @@ input, button, select, textarea {
   height: 550px;
   top: 0px;
   position: relative;
-}}
+}
+
+h3{
+font-family: Arial,sans-serif
+  font-size:80px;    
+   color:black;
+}
+
+p{
+  font-family: Arial,sans-serif
+  font-size:80px;    
+  color:black;
+  text-align: center;
+}
+
+footer row ul> li {
+    font-size:20px; 
+}
+
+footer {
+ background-color:black;
+ font-family: Arial,sans-serif
+  color: white;
+  text-align: center;
+  font-size:10px;  
+}
+}
