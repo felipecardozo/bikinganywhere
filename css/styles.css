@@ -341,12 +341,12 @@ input, button, select, textarea {
 }
 
 .v-center {
-  margin-top:7%;
+  margin-top:2%;
 }
 
 .bg1 {
-  min-height: 400px;
-  background: url("../img/sports-q-c-1200-600-3.jpg") no-repeat fixed center center / cover  rgba(0, 0, 0, 0);
+  min-height: 100%;
+  background: url("../img/img_principal.jpg") no-repeat fixed center center / cover  rgba(0, 0, 0, 0);
 }
 
 .text-section {
@@ -359,6 +359,4 @@ input, button, select, textarea {
   height: 550px;
   top: 0px;
   position: relative;
-}
-
-
+}}
