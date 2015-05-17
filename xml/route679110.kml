@@ -1,0 +1,684 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+  <Style id="kmlLineStyle">
+   <LineStyle>
+    <color>
+     7f0000ff
+    </color>
+    <width>
+     4
+    </width>
+   </LineStyle>
+  </Style>
+  <Placemark>
+   <name>
+<![CDATA[The Cron / Rodeo Beach]]>   </name>
+   <styleUrl>
+    #kmlLineStyle
+   </styleUrl>
+   <LineString>
+    <altitudeMode>
+     clampToGround
+    </altitudeMode>
+    <tessellate>
+     1
+    </tessellate>
+    <coordinates>
+     -122.40822,37.80346,0 -122.41383,37.80276,0 -122.41383,37.80276,0 -122.41375,37.80278,0 -122.41375,37.80278,0 -122.41718,37.80521,0 -122.41718,37.80521,0 -122.41718,37.80521,0 -122.418444157,37.8060373243,0 -122.425374985,37.8050879221,0 -122.425192595,37.8041300307,0 -122.42784,37.80384,0 -122.43176,37.80332,0 -122.43176,37.80332,0 -122.43577,37.80278,0 -122.43577,37.80278,0 -122.43647,37.80272,0 -122.43683,37.80285,0 -122.43683,37.80285,0 -122.43749,37.80312,0 -122.43884,37.80389,0 -122.44053,37.80476,0 -122.44214,37.80567,0 -122.4423,37.80584,0 -122.4423,37.80584,0 -122.44262,37.8058,0 -122.44262,37.8058,0 -122.4475,37.80517,0 -122.4475,37.80517,0 -122.44789,37.80514,0 -122.45016,37.80472,0 -122.453,37.80442,0 -122.4546,37.80419,0 -122.4546,37.80419,0 -122.45998,37.80349,0 -122.4608,37.80297,0 -122.46138,37.80291,0 -122.4628,37.80307,0 -122.4628,37.80307,0 -122.46349,37.80311,0 -122.46515,37.8033,0 -122.46715,37.80362,0 -122.46715,37.80362,0 -122.46748,37.80365,0 -122.46774,37.80355,0 -122.46802,37.80355,0 -122.46802,37.80355,0 -122.46873,37.8038,0 -122.46913,37.80422,0 -122.46965,37.80451,0 -122.46984,37.80475,0 -122.46992,37.80519,0 -122.46992,37.80519,0 -122.46992,37.8058,0 -122.47013,37.80597,0 -122.47127,37.80633,0 -122.47229,37.80686,0 -122.4725,37.8069,0 -122.47251749,37.8071053871,0 -122.473804951,37.8079869512,0 -122.47528553,37.8083090585,0 -122.475435734,37.8087328818,0 -122.476186752,37.8087837404,0 -122.476959228,37.8089871746,0 -122.47702,37.80897,0 -122.47725,37.80984,0 -122.47747,37.81151,0 -122.47972,37.83075,0 -122.47983,37.83113,0 -122.48012,37.8317,0 -122.48054,37.83223,0 -122.48091,37.83253,0 -122.481717467,37.8324461553,0 -122.482270002,37.8327808664,0 -122.48223,37.83279,0 -122.48237,37.83291,0 -122.48293,37.83307,0 -122.4832,37.83321,0 -122.48333,37.83321,0 -122.48341,37.83315,0 -122.48341,37.83315,0 -122.48337,37.83282,0 -122.48341,37.83251,0 -122.48341,37.83251,0 -122.48385,37.83169,0 -122.48403,37.8312,0 -122.48403,37.8312,0 -122.48404,37.83113,0 -122.48404,37.83113,0 -122.48408,37.83068,0 -122.48404,37.83045,0 -122.48404,37.83045,0 -122.48337,37.82989,0 -122.48336,37.82972,0 -122.48342,37.82962,0 -122.48362,37.82953,0 -122.48362,37.82953,0 -122.48383,37.82949,0 -122.48484,37.82953,0 -122.48508,37.82949,0 -122.48508,37.82949,0 -122.48534,37.82935,0 -122.48596,37.8288,0 -122.48603,37.82878,0 -122.48626,37.82885,0 -122.48626,37.82885,0 -122.48687,37.82927,0 -122.48693,37.82942,0 -122.48689,37.83033,0 -122.48689,37.83033,0 -122.48691,37.83079,0 -122.48734,37.83135,0 -122.48737,37.83145,0 -122.48737,37.83145,0 -122.48756,37.83182,0 -122.48777,37.83209,0 -122.48811,37.8323,0 -122.48824,37.83248,0 -122.48824,37.83248,0 -122.4884,37.83267,0 -122.48879,37.83291,0 -122.48891,37.83293,0 -122.48972,37.83262,0 -122.48995,37.83265,0 -122.49027,37.83285,0 -122.49043,37.83289,0 -122.4906,37.83286,0 -122.49102,37.83247,0 -122.49133,37.83241,0 -122.49157,37.83251,0 -122.49176,37.83269,0 -122.49208,37.83321,0 -122.49222,37.83334,0 -122.49362,37.83362,0 -122.49362,37.83362,0 -122.49392,37.83358,0 -122.49408,37.83351,0 -122.49467,37.83306,0 -122.49477,37.83293,0 -122.49491,37.83258,0 -122.49508,37.83203,0 -122.49527,37.83182,0 -122.49557,37.83172,0 -122.49635,37.83175,0 -122.49719,37.83155,0 -122.49719,37.83155,0 -122.49743,37.83139,0 -122.49759,37.8309,0 -122.49776,37.8307,0 -122.49836,37.8304,0 -122.49845,37.83034,0 -122.49848,37.83025,0 -122.4982,37.8292,0 -122.49813,37.82904,0 -122.49789,37.82879,0 -122.49782,37.82856,0 -122.49781,37.82825,0 -122.49793,37.82811,0 -122.49858,37.82792,0 -122.49891,37.82764,0 -122.49921,37.82717,0 -122.49932,37.8265,0 -122.4995,37.82634,0 -122.49981,37.82626,0 -122.50043,37.82645,0 -122.50043,37.82645,0 -122.50089,37.82663,0 -122.50156,37.82668,0 -122.50193,37.82711,0 -122.50217,37.82728,0 -122.50316,37.82764,0 -122.50346,37.82769,0 -122.5037,37.8276,0 -122.50403,37.82731,0 -122.5047,37.827,0 -122.50494,37.82661,0 -122.50508,37.8265,0 -122.50569,37.82628,0 -122.50603,37.82622,0 -122.50635,37.82631,0 -122.50659,37.82644,0 -122.5068,37.82645,0 -122.50748,37.82614,0 -122.50788,37.82609,0 -122.50816,37.82639,0 -122.50847,37.82658,0 -122.50953,37.82676,0 -122.50996,37.82691,0 -122.5114,37.82788,0 -122.5114,37.82788,0 -122.51182,37.82814,0 -122.51214,37.82817,0 -122.51241,37.82811,0 -122.51431,37.82727,0 -122.51471,37.82722,0 -122.51594,37.82723,0 -122.51674,37.82746,0 -122.51698,37.8274,0 -122.51714,37.82724,0 -122.51714,37.82724,0 -122.51746,37.82701,0 -122.51875,37.82668,0 -122.51918,37.82661,0 -122.51942,37.82662,0 -122.51971,37.82672,0 -122.52022,37.827,0 -122.52071,37.82713,0 -122.52139,37.82719,0 -122.52182,37.82735,0 -122.52246,37.8278,0 -122.52263,37.82798,0 -122.52311,37.8281,0 -122.52335,37.82821,0 -122.52359,37.82823,0 -122.52398,37.82807,0 -122.52436,37.82806,0 -122.52461,37.82813,0 -122.52518,37.82846,0 -122.52543,37.82846,0 -122.52552,37.82841,0 -122.52556,37.8283,0 -122.52562,37.82773,0 -122.52581,37.82746,0 -122.52594,37.82655,0 -122.52602,37.82634,0 -122.52602,37.82634,0 -122.52622,37.8261,0 -122.52701,37.82551,0 -122.52717,37.82544,0 -122.52784,37.82541,0 -122.52784,37.82541,0 -122.52796,37.82534,0 -122.52801,37.82519,0 -122.52759,37.82445,0 -122.52745,37.824,0 -122.52755,37.82383,0 -122.5277,37.82372,0 -122.52793,37.82363,0 -122.52818,37.82327,0 -122.52831,37.82318,0 -122.52848,37.82314,0 -122.529,37.82317,0 -122.529,37.82317,0 -122.5289,37.82295,0 -122.52889,37.82271,0 -122.52894,37.82257,0 -122.52941,37.82193,0 -122.52967,37.8218,0 -122.52997,37.82181,0 -122.53067,37.82202,0 -122.53167,37.82241,0 -122.53191,37.82244,0 -122.53262,37.82236,0 -122.53287,37.82244,0 -122.53305,37.82256,0 -122.53305,37.82256,0 -122.5332,37.82278,0 -122.5332,37.82278,0 -122.53321,37.82279,0 -122.533392906,37.8230143039,0 -122.533478737,37.8228956566,0 -122.533435822,37.8227261601,0 -122.533371449,37.8225736129,0 -122.533285618,37.8224634397,0 -122.533156872,37.8224803894,0 -122.53304,37.82255,0 -122.53287,37.82244,0 -122.53262,37.82236,0 -122.53191,37.82244,0 -122.53167,37.82241,0 -122.53067,37.82202,0 -122.52981,37.82179,0 -122.52981,37.82179,0 -122.52958,37.82182,0 -122.52941,37.82193,0 -122.52894,37.82257,0 -122.52889,37.82271,0 -122.52895,37.82308,0 -122.52895,37.82308,0 -122.52933,37.82375,0 -122.52943,37.82384,0 -122.52995,37.82406,0 -122.53002,37.82418,0 -122.53006,37.82447,0 -122.53003,37.82473,0 -122.52991,37.82493,0 -122.52949,37.82521,0 -122.52949,37.82521,0 -122.52877,37.82579,0 -122.528446913,37.8259719504,0 -122.52845,37.82597,0 -122.52704,37.82602,0 -122.52704,37.82602,0 -122.52681,37.8261,0 -122.52654,37.82641,0 -122.52618,37.82774,0 -122.52618,37.82774,0 -122.52615,37.82796,0 -122.52623,37.82813,0 -122.52681,37.82853,0 -122.52718,37.82886,0 -122.52717,37.82886,0 -122.52731,37.82898,0 -122.52788,37.82928,0 -122.52795,37.8294,0 -122.52797,37.82959,0 -122.52777,37.82979,0 -122.52555,37.83051,0 -122.52512,37.83052,0 -122.52436,37.83044,0 -122.5238,37.83044,0 -122.52362,37.83048,0 -122.52362,37.83048,0 -122.52334,37.83062,0 -122.52325,37.83071,0 -122.52312,37.83106,0 -122.522921562,37.8318699402,0 -122.52293,37.83188,0 -122.52271,37.83271,0 -122.52241,37.83297,0 -122.52188,37.83321,0 -122.52148,37.83327,0 -122.52028,37.83323,0 -122.52028,37.83323,0 -122.51871,37.83305,0 -122.51727,37.83259,0 -122.51641,37.83208,0 -122.51601,37.83191,0 -122.51566,37.83183,0 -122.51454,37.83172,0 -122.51454,37.83172,0 -122.51345,37.83164,0 -122.5128,37.83167,0 -122.51202,37.83181,0 -122.51112,37.8321,0 -122.51112,37.8321,0 -122.50784,37.83334,0 -122.50784,37.83334,0 -122.50697,37.83364,0 -122.50548,37.83377,0 -122.50496,37.83391,0 -122.50464,37.8341,0 -122.50447,37.83431,0 -122.50419,37.83489,0 -122.50419,37.83489,0 -122.50379,37.83563,0 -122.50338,37.83603,0 -122.50289,37.83635,0 -122.50268,37.83644,0 -122.50163,37.83672,0 -122.50124,37.83688,0 -122.50098,37.83704,0 -122.50098,37.83704,0 -122.49907,37.83855,0 -122.49802,37.8398,0 -122.49719,37.84048,0 -122.49519,37.84151,0 -122.49439,37.84202,0 -122.49418,37.8421,0 -122.49387,37.84211,0 -122.4935,37.842,0 -122.4935,37.842,0 -122.48649,37.83914,0 -122.48606,37.83901,0 -122.48486,37.83881,0 -122.48454,37.8387,0 -122.48383,37.83835,0 -122.48316,37.83777,0 -122.48316,37.83777,0 -122.48304,37.83767,0 -122.48304,37.83767,0 -122.48306,37.837,0 -122.48325,37.83664,0 -122.48355,37.83628,0 -122.48446,37.83575,0 -122.48486,37.83542,0 -122.48486,37.83542,0 -122.48499,37.83496,0 -122.48489,37.83468,0 -122.48469,37.83447,0 -122.48374,37.83389,0 -122.48374,37.83389,0 -122.48373,37.83388,0 -122.48373,37.83388,0 -122.48345,37.83324,0 -122.48345,37.83324,0 -122.48341,37.83315,0 -122.48341,37.83315,0 -122.48333,37.83321,0 -122.4832,37.83321,0 -122.48293,37.83307,0 -122.48237,37.83291,0 -122.48223,37.83281,0 -122.48222,37.83252,0 -122.481991053,37.8323953129,0 -122.481175661,37.8324800501,0 -122.48114,37.83252,0 -122.48072,37.83222,0 -122.48023,37.83163,0 -122.48002,37.83124,0 -122.47984,37.83067,0 -122.47966,37.82936,0 -122.47929,37.82552,0 -122.47759,37.8115,0 -122.47734,37.80968,0 -122.47717,37.80904,0 -122.476723194,37.8088430754,0 -122.476272583,37.8087498347,0 -122.475725412,37.8087413582,0 -122.475425005,37.8086904996,0 -122.475221157,37.808317535,0 -122.473804951,37.8079445685,0 -122.472624779,37.8071562469,0 -122.472592592,37.8068934711,0 -122.47259,37.8069,0 -122.47238,37.80689,0 -122.47218,37.80681,0 -122.47127,37.80633,0 -122.47013,37.80597,0 -122.46992,37.8058,0 -122.46991,37.80533,0 -122.46991,37.80533,0 -122.47001,37.80481,0 -122.46999,37.80464,0 -122.46977,37.80433,0 -122.46953,37.80421,0 -122.46931,37.80403,0 -122.46918,37.80376,0 -122.46903,37.80321,0 -122.46899,37.80284,0 -122.4691,37.80232,0 -122.4691,37.80232,0 -122.46883,37.80221,0 -122.46815,37.80222,0 -122.46729,37.80176,0 -122.46702,37.80171,0 -122.46702,37.80171,0 -122.46691,37.80252,0 -122.46691,37.80252,0 -122.46772,37.80341,0 -122.46772,37.80341,0 -122.46775,37.80344,0 -122.46775,37.80344,0 -122.46748,37.80365,0 -122.46659,37.80353,0 -122.46659,37.80353,0 -122.46515,37.8033,0 -122.46349,37.80311,0 -122.46226,37.80303,0 -122.46138,37.80291,0 -122.4608,37.80297,0 -122.46035,37.80326,0 -122.46035,37.80326,0 -122.45998,37.80349,0 -122.4546,37.80419,0 -122.4546,37.80419,0 -122.45214,37.80451,0 -122.45214,37.80451,0 -122.45016,37.80472,0 -122.44894,37.80492,0 -122.4488,37.8049,0 -122.4488,37.8049,0 -122.4483,37.80495,0 -122.44815,37.80488,0 -122.44815,37.80488,0 -122.44786,37.80506,0 -122.4475,37.80517,0 -122.4475,37.80517,0 -122.4423,37.80584,0 -122.438635826,37.8037146581,0 -122.436490059,37.802697409,0 -122.43344307,37.8030364936,0 -122.432842255,37.8031382186,0 -122.431662083,37.8033077601,0 -122.43168,37.80333,0 -122.43168,37.80333,0 -122.42784,37.80384,0 -122.42505312,37.8041554617,0 -122.42075,37.80477,0 -122.42075,37.80477,0 -122.418669462,37.8050540147,0 -122.41731,37.80518,0 -122.41731,37.80518,0 -122.41728,37.80516,0 -122.41728,37.80516,0 -122.41681,37.80484,0 -122.41681,37.80484,0 -122.41607,37.80434,0 -122.41607,37.80434,0 -122.41506,37.80366,0 -122.41506,37.80366,0 -122.41489,37.80358,0 -122.41489,37.80358,0 -122.41472,37.80265,0 -122.41472,37.80266,0 -122.41398,37.80274,0 -122.41398,37.80274,0 -122.41168,37.80304,0 -122.41168,37.80304,0 -122.41055,37.80317,0 -122.41055,37.80317,0 -122.4096,37.80329,0 -122.4096,37.80329,0 -122.40856,37.80342,0 -122.40856,37.80342,0 
+    </coordinates>
+   </LineString>
+  </Placemark>
+  <Style id="Kilometer_1">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=1]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_1
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.418444157,37.8060373243,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 1
+   </name>
+  </Placemark>
+  <Style id="Kilometer_2">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=2]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_2
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.43176,37.80332,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 2
+   </name>
+  </Placemark>
+  <Style id="Kilometer_3">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=3]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_3
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.44214,37.80567,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 3
+   </name>
+  </Placemark>
+  <Style id="Kilometer_5">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=5]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_5
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.4546,37.80419,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 5
+   </name>
+  </Placemark>
+  <Style id="Kilometer_6">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=6]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_6
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.46715,37.80362,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 6
+   </name>
+  </Placemark>
+  <Style id="Kilometer_7">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=7]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_7
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.475435734,37.8087328818,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 7
+   </name>
+  </Placemark>
+  <Style id="Kilometer_9">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=9]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_9
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.47972,37.83075,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 9
+   </name>
+  </Placemark>
+  <Style id="Kilometer_10">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=10]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_10
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.48484,37.82953,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 10
+   </name>
+  </Placemark>
+  <Style id="Kilometer_11">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=11]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_11
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.49176,37.83269,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 11
+   </name>
+  </Placemark>
+  <Style id="Kilometer_12">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=12]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_12
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.49789,37.82879,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 12
+   </name>
+  </Placemark>
+  <Style id="Kilometer_13">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=13]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_13
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.50569,37.82628,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 13
+   </name>
+  </Placemark>
+  <Style id="Kilometer_14">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=14]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_14
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.51594,37.82723,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 14
+   </name>
+  </Placemark>
+  <Style id="Kilometer_15">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=15]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_15
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.52562,37.82773,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 15
+   </name>
+  </Placemark>
+  <Style id="Kilometer_16">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=16]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_16
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.53167,37.82241,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 16
+   </name>
+  </Placemark>
+  <Style id="Kilometer_17">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=17]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_17
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.52991,37.82493,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 17
+   </name>
+  </Placemark>
+  <Style id="Kilometer_18">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=18]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_18
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.52555,37.83051,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 18
+   </name>
+  </Placemark>
+  <Style id="Kilometer_20">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=20]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_20
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.51641,37.83208,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 20
+   </name>
+  </Placemark>
+  <Style id="Kilometer_21">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=21]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_21
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.50548,37.83377,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 21
+   </name>
+  </Placemark>
+  <Style id="Kilometer_22">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=22]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_22
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.49719,37.84048,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 22
+   </name>
+  </Placemark>
+  <Style id="Kilometer_23">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=23]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_23
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.48649,37.83914,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 23
+   </name>
+  </Placemark>
+  <Style id="Kilometer_24">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=24]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_24
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.48293,37.83307,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 24
+   </name>
+  </Placemark>
+  <Style id="Kilometer_25">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=25]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_25
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.47929,37.82552,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 25
+   </name>
+  </Placemark>
+  <Style id="Kilometer_26">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=26]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_26
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.47759,37.8115,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 26
+   </name>
+  </Placemark>
+  <Style id="Kilometer_27">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=27]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_27
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.47013,37.80597,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 27
+   </name>
+  </Placemark>
+  <Style id="Kilometer_28">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=28]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_28
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.46515,37.8033,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 28
+   </name>
+  </Placemark>
+  <Style id="Kilometer_30">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=30]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_30
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.45214,37.80451,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 30
+   </name>
+  </Placemark>
+  <Style id="Kilometer_31">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=31]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_31
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.438635826,37.8037146581,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 31
+   </name>
+  </Placemark>
+  <Style id="Kilometer_32">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=32]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_32
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.42505312,37.8041554617,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 32
+   </name>
+  </Placemark>
+  <Style id="Kilometer_33">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=33]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Kilometer_33
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.41472,37.80265,0
+    </coordinates>
+   </Point>
+   <name>
+    Kilometer 33
+   </name>
+  </Placemark>
+  <Style id="start_marker">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://static.mapmyfitness.com/d/mapping_api/stable/img/markers/start.png]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #start_marker
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.40822,37.80346,0
+    </coordinates>
+   </Point>
+   <name>
+    The Cron / Rodeo Beach
+   </name>
+  </Placemark>
+  <Style id="finish_marker">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://static.mapmyfitness.com/d/mapping_api/stable/img/markers/stop.png]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #finish_marker
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -122.40856,37.80342,0
+    </coordinates>
+   </Point>
+   <name>
+    The Cron / Rodeo Beach
+   </name>
+  </Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,364 @@
+.header {
+    background: #fff none repeat scroll 0 0;
+    border-bottom: 1px solid #dce0e0;
+    padding: 0 20px;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary{
+    display: block;
+}
+
+.header .header-belo{
+    background: rgba(0, 0, 0, 0) url("../img/bike.png") no-repeat scroll 0 0;
+    display: block;
+    height: 32px;
+    margin: 7px auto;
+    width: 102px;
+}
+
+.pull-left {
+    float: left;
+}
+
+a {
+    color: #ff5a5f;
+    text-decoration: none;
+}
+
+.header .nav.search-form-container {
+    margin-left: 20px;
+}
+
+.header .nav {
+    height: 46px;
+    margin: 0;
+}
+
+.list-unstyled, .list-layout, .subnav-list, .sidenav-list {
+    list-style: outside none none;
+    padding-left: 0;
+}
+
+.header .regular-header .search-bar-wrapper {
+    padding-top: 8px;
+}
+
+.header .nav > li {
+    height: 46px;
+    line-height: 46px;
+}
+
+.header .medium-right-margin {
+    margin-right: 20px;
+}
+
+.header .search-form {
+    margin: 0;
+    position: relative;
+    z-index: 2;
+}
+
+.header .search-form .search-bar {
+    position: relative;
+}
+
+.icon-search::before {
+    content: "\f1b9";
+}
+
+.icon::before {
+    line-height: 1;
+}
+
+.icon::before {
+    font-family: Airglyphs,sans-serif;
+}
+
+.header .search-form .search-bar .icon-search {
+    left: 9px;
+    position: absolute;
+    top: 4px;
+}
+
+.icon {
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+}
+.text-gray, .icon-gray {
+    color: #82888a;
+}
+
+h4, .h4 {
+    font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    line-height: 1.1;
+    text-rendering: optimizelegibility;
+}
+
+.screen-reader-only {
+    border: 0 none;
+    clip: rect(0px, 0px, 0px, 0px);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.header .search-form .form-control {
+    box-sizing: content-box;
+    height: 21px;
+    line-height: 21px;
+    padding: 4px 4px 4px 30px;
+    width: 249px;
+}
+
+input, textarea, .input-prefix, .input-suffix {
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+input::-moz-placeholder, textarea::-moz-placeholder, .input-prefix::-moz-placeholder, .input-suffix::-moz-placeholder{
+    color: #82888a;
+}
+
+html,body{
+  	height:100%;
+}
+
+body{
+  	padding-top:50px; /*padding for navbar*/
+}
+
+#main, #main>.row {
+	height:100%;
+}
+
+#main>.row {
+    overflow-y:scroll;
+}
+
+#left {
+	height:100%;
+}
+
+#map-canvas {
+	width:50%;
+    height:calc(100% - 0);
+    position:absolute;
+    right:16px;
+    top:96px;
+    bottom:0;
+    overflow:hidden;
+}
+
+*, *::before, *::after, hr, hr::before, hr::after, input[type="search"], input[type="search"]::before, input[type="search"]::after{
+    box-sizing: border-box;
+}
+
+*, *::before, *::after, hr, hr::before, hr::after, input[type="search"], input[type="search"]::before, input[type="search"]::after{
+    box-sizing: border-box;
+}
+
+.column-lg{
+    float: left;
+    width: 49%;
+}
+
+.col-1, .col-sm-1, .col-md-1, .col-lg-1, .col-2, .col-sm-2, .col-md-2, .col-lg-2, .col-3, .col-sm-3, .col-md-3, .col-lg-3, .col-4, .col-sm-4, .col-md-4, .col-lg-4, .col-5, .col-sm-5, .col-md-5, .col-lg-5, .col-6, .col-sm-6, .col-md-6, .col-lg-6, .col-7, .col-sm-7, .col-md-7, .col-lg-7, .col-8, .col-sm-8, .col-md-8, .col-lg-8, .col-9, .col-sm-9, .col-md-9, .col-lg-9, .col-10, .col-sm-10, .col-md-10, .col-lg-10, .col-11, .col-sm-11, .col-md-11, .col-lg-11, .col-12, .col-sm-12, .col-md-12, .col-lg-12{
+    min-height: 1px;
+    padding-left: 12.5px;
+    padding-right: 12.5px;
+    position: relative;
+}
+
+*, *::before, *::after, hr, hr::before, hr::after, input[type="search"], input[type="search"]::before, input[type="search"]::after{
+    box-sizing: border-box;
+}
+
+.row::before, .row::after{
+    content: " ";
+    display: table;
+}
+
+.row::after{
+    clear: both;
+}
+
+.row-condensed{
+    margin-left: -6.25px;
+    margin-right: -6.25px;
+}
+
+.row-condensed .col-1, .row-condensed .col-sm-1, .row-condensed .col-md-1, .row-condensed .col-lg-1, .row-condensed .col-2, .row-condensed .col-sm-2, .row-condensed .col-md-2, .row-condensed .col-lg-2, .row-condensed .col-3, .row-condensed .col-sm-3, .row-condensed .col-md-3, .row-condensed .col-lg-3, .row-condensed .col-4, .row-condensed .col-sm-4, .row-condensed .col-md-4, .row-condensed .col-lg-4, .row-condensed .col-5, .row-condensed .col-sm-5, .row-condensed .col-md-5, .row-condensed .col-lg-5, .row-condensed .col-6, .row-condensed .col-sm-6, .row-condensed .col-md-6, .row-condensed .col-lg-6, .row-condensed .col-7, .row-condensed .col-sm-7, .row-condensed .col-md-7, .row-condensed .col-lg-7, .row-condensed .col-8, .row-condensed .col-sm-8, .row-condensed .col-md-8, .row-condensed .col-lg-8, .row-condensed .col-9, .row-condensed .col-sm-9, .row-condensed .col-md-9, .row-condensed .col-lg-9, .row-condensed .col-10, .row-condensed .col-sm-10, .row-condensed .col-md-10, .row-condensed .col-lg-10, .row-condensed .col-11, .row-condensed .col-sm-11, .row-condensed .col-md-11, .row-condensed .col-lg-11, .row-condensed .col-12, .row-condensed .col-sm-12, .row-condensed .col-md-12, .row-condensed .col-lg-12{
+    padding-left: 6.25px;
+    padding-right: 6.25px;
+}
+
+.col-middle-alt{
+    display: inline-block;
+    float: none;
+    margin-right: -4px;
+    vertical-align: middle;
+}
+
+.col-sm-4{
+    float: left;
+    width: 27%;
+}
+
+.checkbox.panel{
+    padding-left: 7px;
+}
+
+.checkbox, .checkbox input{
+    cursor: pointer;
+}
+
+.panel-dark, .panel-header{
+    background-color: #edefed;
+}
+
+.panel{
+    background-color: #fff;
+    border: 1px solid #dce0e0;
+    border-radius: 0;
+}
+
+label{
+    display: block;
+    padding-bottom: 8px;
+    padding-top: 9px;
+}
+
+label, input, textarea, select, input[type="radio"], input[type="checkbox"], .input-prefix, .input-suffix{
+    line-height: normal;
+}
+
+.panel-body + .panel-body::before{
+    border-color: rgba(220, 224, 224, 0.5);
+    border-top: 1px solid rgba(220, 224, 224, 0.5);
+    content: "";
+    height: 1px;
+    left: 20px;
+    position: absolute;
+    right: 20px;
+    top: -1px;
+}
+
+.filters-section .intro-filter{
+    display: block;
+}
+
+.panel-header + .panel-body, .panel-body + .panel-body, ul.panel-body > li + .panel-body, ol.panel-body > li + .panel-body, .panel-footer + .panel-body{
+    border-top: medium none;
+}
+
+.filters-section {
+    padding-bottom: 15px;
+    padding-top: 15px;
+    height: 30%;
+}
+
+.left-panel {
+    width: 49%;
+    margin-left: 10px;
+}
+
+.col-lg-2 {
+    float: left;
+    width: 8%;
+}
+
+.input-group {
+
+}
+
+#find {
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+}
+
+#search_form, #find {
+    height: 44px;
+}
+
+.btn-primary.btn {
+    background-color: #ff5a5f;
+    border-color: #ff5a5f #ff5a5f #e00007;
+    color: #fff;
+}
+
+.search-button {
+    vertical-align: bottom;
+}
+
+.form-inline {
+    display: inline;
+}
+
+.btn-large {
+    font-size: 16px;
+    padding: 9px 27px;
+}
+
+.btn {
+    -moz-user-select: none;
+    border: 1px solid;
+    border-radius: 2px;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: bold;
+    line-height: 1.43;
+    margin-bottom: 0;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+input, button, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+/* Custom container */
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+  min-height:100%;
+  background-color:#f5f5f5;
+  color:#eee;
+  overflow:hidden;
+}
+
+.container-full a {
+  color:#efefef;
+  text-decoration:none;
+}
+
+.v-center {
+  margin-top:7%;
+}
+
+.bg1 {
+  min-height: 400px;
+  background: url("../img/sports-q-c-1200-600-3.jpg") no-repeat fixed center center / cover  rgba(0, 0, 0, 0);
+}
+
+.text-section {
+  padding: 20px; background-color: rgba(5, 5, 5, 0.6);
+  margin-left: 25%;
+  width: 50%;
+}
+
+.expand {
+  height: 550px;
+  top: 0px;
+  position: relative;
+}
+
+
